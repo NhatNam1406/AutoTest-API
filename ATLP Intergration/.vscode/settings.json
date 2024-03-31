@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./Input",
+        "./Testcase",
+        "./Testcase/Service Request",
+        "./Data"
+    ]
+}

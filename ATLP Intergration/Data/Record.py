@@ -1,0 +1,16 @@
+Save_HBL_LCL = {"HBL[1]": "152HGQG6VO", "Cargotype[1]": "GP", "CargoCode[1]": "C20", "Qty[1]": "7", "Wgt[1]": "4808", "Cbm[1]": "4", "ContainerNo[1]": "WJLU6827080", "HBL[2]": "RW1659EYKI", "Cargotype[2]": "GP", "CargoCode[2]": "C20", "Qty[2]": "1", "Wgt[2]": "1121", "Cbm[2]": "8", "ContainerNo[2]": "WJLU6827080", "HBL[3]": "KLOJE2MEPM", "Cargotype[3]": "GP", "CargoCode[3]": "C20", "Qty[3]": "4", "Wgt[3]": "2161", "Cbm[3]": "10", "ContainerNo[3]": "WJLU6827080", "HBL[4]": "PD52L11ZMJ", "Cargotype[4]": "GP", "CargoCode[4]": "C20", "Qty[4]": "8", "Wgt[4]": "2209", "Cbm[4]": "6", "ContainerNo[4]": "WJLU6827080"}
+Save_MBL_LCL = "LJ4F4MV18C"
+Save_WorkNo_LCL = "PZ4ZXRKFV4"
+Save_DraftInv_LCL = "TINV24000420"
+Save_Totalamount_LCL = "1135.75"
+Save_HBL_LCL = {"HBL[1]": "AOGF0PI79S", "Cargotype[1]": "GP", "CargoCode[1]": "C20", "Qty[1]": "2", "Wgt[1]": "3035", "Cbm[1]": "5", "ContainerNo[1]": "GCXU0126511", "HBL[2]": "PLCL84KF5D", "Cargotype[2]": "GP", "CargoCode[2]": "C20", "Qty[2]": "3", "Wgt[2]": "4749", "Cbm[2]": "6", "ContainerNo[2]": "GCXU0126511", "HBL[3]": "JURMODUPTJ", "Cargotype[3]": "GP", "CargoCode[3]": "C20", "Qty[3]": "1", "Wgt[3]": "4153", "Cbm[3]": "6", "ContainerNo[3]": "GCXU0126511", "HBL[4]": "YFHCSW2P76", "Cargotype[4]": "GP", "CargoCode[4]": "C20", "Qty[4]": "6", "Wgt[4]": "3294", "Cbm[4]": "6", "ContainerNo[4]": "GCXU0126511", "HBL[5]": "AS6RUZ5045", "Cargotype[5]": "GP", "CargoCode[5]": "C20", "Qty[5]": "2", "Wgt[5]": "3237", "Cbm[5]": "10", "ContainerNo[5]": "GCXU0126511", "HBL[6]": "PGPT7TCM9T", "Cargotype[6]": "GP", "CargoCode[6]": "C20", "Qty[6]": "7", "Wgt[6]": "2830", "Cbm[6]": "3", "ContainerNo[6]": "GCXU0126511", "HBL[7]": "WXSR7H5XLR", "Cargotype[7]": "GP", "CargoCode[7]": "C20", "Qty[7]": "3", "Wgt[7]": "1725", "Cbm[7]": "4", "ContainerNo[7]": "GCXU0126511", "HBL[8]": "BOD1QO8GSA", "Cargotype[8]": "GP", "CargoCode[8]": "C20", "Qty[8]": "10", "Wgt[8]": "2089", "Cbm[8]": "1", "ContainerNo[8]": "GCXU0126511", "HBL[9]": "B5A4OJYTB3", "Cargotype[9]": "GP", "CargoCode[9]": "C20", "Qty[9]": "5", "Wgt[9]": "4661", "Cbm[9]": "2", "ContainerNo[9]": "GCXU0126511", "HBL[10]": "R6VN4VDNUZ", "Cargotype[10]": "GP", "CargoCode[10]": "C20", "Qty[10]": "5", "Wgt[10]": "1290", "Cbm[10]": "2", "ContainerNo[10]": "GCXU0126511"}
+Save_MBL_LCL = "JDA4V5W6KZ"
+Save_WorkNo_LCL = "LTDAY995D4"
+Save_DraftInv_LCL = "TINV24000421"
+Save_Totalamount_LCL = "1135.75"
+Save_HBL_FCL = {"HBL[1]": "XQWQKZ89VD", "Cargotype[1]": "GP", "CargoCode[1]": "C20", "Qty[1]": "3", "Wgt[1]": "2088", "Cbm[1]": "9", "ContainerNo[1]": "DVUU1774618", "HBL[2]": "CQP37PIQKM", "Cargotype[2]": "GP", "CargoCode[2]": "C20", "Qty[2]": "10", "Wgt[2]": "4263", "Cbm[2]": "1", "ContainerNo[2]": "UZEU9542953", "HBL[3]": "8I9Z0L17D1", "Cargotype[3]": "GP", "CargoCode[3]": "C20", "Qty[3]": "8", "Wgt[3]": "4513", "Cbm[3]": "5", "ContainerNo[3]": "FZUU5784439"}
+Save_MBL_FCL = "EZQBG0RH9B"
+Save_WorkNo_FCL = "SIMCWRVAO2"
+Save_No_Cntr_FCL = 3
+Save_DraftInv_FCL = "TINV24000422"
+Save_Totalamount_FCL = "3808.59"
